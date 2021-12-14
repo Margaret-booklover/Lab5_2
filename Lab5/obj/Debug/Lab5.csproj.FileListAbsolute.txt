@@ -1,0 +1,7 @@
+C:\Users\Fujitsu\Desktop\студент\2 курс\c#\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\Fujitsu\Desktop\студент\2 курс\c#\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\Desktop\студент\2 курс\c#\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Fujitsu\Desktop\студент\2 курс\c#\Lab5\bin\Debug\Lab5.exe
+C:\Users\Fujitsu\Desktop\студент\2 курс\c#\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Fujitsu\Desktop\студент\2 курс\c#\Lab5\obj\Debug\Lab5.exe
+C:\Users\Fujitsu\Desktop\студент\2 курс\c#\Lab5\obj\Debug\Lab5.pdb
